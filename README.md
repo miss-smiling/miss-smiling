@@ -18,8 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 ────────────────────────────────────────✿────────────────────────────────────────
-## 🌺 loading...
-
+<br>
+### 🌺 loading...
+<br>
 ```yaml
 name: Neha Rane
 Handle:miss-smiling
@@ -34,14 +35,18 @@ currently:
   - DSA,Research,exploring LLMs,Astophysics
   - ~Powered by curiosity and late-night ideas
 ```
-──────────────────── ✿ ────────────────────
-
+<br>
+────────────────────────────────────────✿────────────────────────────────────────
+<br>
 ## 🌷 things i build with
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,mongodb,mysql,git,github,vscode,figma,tensorflow,pytorch&perline=10" />
 </p>
-──────────────────── ✿ ────────────────────
+<br>
+────────────────────────────────────────✿────────────────────────────────────────
+
+<BR>
 
 ## 🌷 currently obsessed with
 
@@ -50,8 +55,9 @@ currently:
 - 📄 Research
 - 🌱 UI Design
 - 🏆 Hackathons
-
-──────────────────── ✿ ────────────────────
+<br>
+────────────────────────────────────────✿────────────────────────────────────────
+<br>
 
 ## 📊 github stats
 
@@ -63,23 +69,28 @@ currently:
 <p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=miss-smiling&theme=transparent&hide_border=true"/>
 </p>
+<br>
 
-──────────────────── ✿ ────────────────────
+────────────────────────────────────────✿────────────────────────────────────────
 
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake.svg">
 </picture>
-
+<br>
 ## 🌿 what i'm working towards
 - ☐ 🏆 Win a national-level hackathon
 - ☐🌍 Earn recognition on an international stage
 - ☐📄 Publish my first research paper
 - ☐🧠 Build an AI tool that solves a real-world problem
 - ☐📚 Create an open-source library developers enjoy using
- ■  ■  ■ 
-──────────────────── ✿ ────────────────────
+ ■  ■  ■
+<br>
+
+────────────────────────────────────────✿────────────────────────────────────────
+<br>
   ## 🌼 fun facts
 
 - 🌸 happiest during hackathons
@@ -87,13 +98,11 @@ currently:
 - 🧩 debugging feels like solving tiny mysteries
 - ✨ believes every project teaches something new
 - 🌙 often gets the best ideas late at night
-
-
-──────────────────── ✿ ────────────────────
-
 <div align="center">
 
-
+<br>
+────────────────────────────────────────✿────────────────────────────────────────
+<br>
 ✨ **Always happy to learn, collaborate, and create.**
 
 *Thanks for stopping by.* 🌸
