@@ -91,7 +91,7 @@ currently:
 - ☐📄 Publish my first research paper
 - ☐🧠 Build an AI tool that solves a real-world problem
 - ☐📚 Create an open-source library developers enjoy using
- ■  ■  ■
+<br> ■  ■  ■
 <br>
 
 ────────────────────────────────────────✿────────────────────────────────────────
