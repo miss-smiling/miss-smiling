@@ -23,7 +23,7 @@
 
 ```yaml
 name: Neha Rane
-location: miss-smiling
+Handle: miss-smiling
 location: UMIT 9SNDT Women's University)
 degree: B.Tech (AI)
 Linkedin: www.linkedin.com/in/neha-rane-527b52367
